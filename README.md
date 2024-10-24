@@ -1,1 +1,2 @@
 # exampleRepository
+Additional information
